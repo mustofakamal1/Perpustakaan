@@ -1,8 +1,8 @@
 # Perpustakaan
 
 Kelas Pemrograman Lanjut - 02 :
-Mustofa Kamal / 1706043020
-Muhammad Farhan / 1706042876
+  Mustofa Kamal / 1706043020
+  Muhammad Farhan / 1706042876
 
 # INSTALLATION
 
